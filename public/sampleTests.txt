@@ -1,0 +1,21 @@
+for employee, Login data:
+
+    "email": "employee1@example.com",
+    "password": "123"
+
+    "email": "employee2@example.com",
+    "password": "123"
+
+    "email": "employee3@example.com",
+    "password": "123"
+
+    "email": "employee4@example.com",
+    "password": "123"
+
+    "email": "employee5@example.com",
+    "password": "123"
+
+for admin, login data:
+
+    "email": "admin@me.com",
+    "password": "123"
